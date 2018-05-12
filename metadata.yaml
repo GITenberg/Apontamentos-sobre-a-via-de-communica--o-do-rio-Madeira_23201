@@ -1,0 +1,34 @@
+_repo: Apontamentos-sobre-a-via-de-communica--o-do-rio-Madeira_23201
+_version: 0.1.0
+alternative_title: Apontamentos sobre a via de comunicação do rio Madeira
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rebouças, Antonio Pereira
+    aliases:
+    - Reboucas, Antonio Pereira
+    - Rebouças, António
+    birthdate: 1798
+    deathdate: 1880
+    gutenberg_agent_id: '25747'
+    url: http://www.gutenberg.org/2009/agents/25747
+description: ''
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23201'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: "Produced by Pedro Saborano (This file was produced from\r\nimages\
+  \ generously made available by Cornell University\r\nDigital Collections)"
+publication_note: "Rio de Janeiro:\r\nTypographia Nacional\r\n1870"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2501'
+- !lcsh 'Madeira River (Brazil and Bolivia) -- Navigation'
+title: Apontamentos sobre a via de communicação do rio Madeira
+url: http://www.gutenberg.org/ebooks/23201
